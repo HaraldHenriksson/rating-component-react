@@ -57,3 +57,25 @@
     background: white;
     color: #fb7b19;
 }
+
+/* Thank you panel */
+
+.thankYouPanel {
+    background-color: #1e242e;
+    padding: 40px;
+    border-radius: 35px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+
+.selected {
+    color: #f68733;
+    background: #2e343e;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+    font-size: 12px;
+    display: inline-block;
+}
